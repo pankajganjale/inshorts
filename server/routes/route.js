@@ -5,7 +5,7 @@ import { getNews } from '../controller/newsController.js';
 const Route = express.Router();
 
 
-Route.get('/news', getNews);
+Route.get('/', getNews);
 
 
 export default Route;
