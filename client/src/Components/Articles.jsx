@@ -18,7 +18,7 @@ const Articles = () => {
     }, [])
 
     const getData = async () => {
-        const {data} = await axios.get("https://inshorts-news-server.herokuapp.com/");
+        const {data} = await axios.get("<BACKEND_API>");
         setNews(data)
     }
 

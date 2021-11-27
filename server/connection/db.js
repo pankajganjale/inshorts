@@ -4,7 +4,7 @@ import mongoose from 'mongoose';
 
 const Connection = async (username, password) => {
     try {   
-        const URL = `mongodb+srv://inshorts:inshorts@inshorts-news.6zqot.mongodb.net/inshorts-news?retryWrites=true&w=majority`;
+        const URL = `mongodb+srv://inshorts:<PASSWORD>@inshorts-news.6zqot.mongodb.net/inshorts-news?retryWrites=true&w=majority`;
         
         await mongoose.connect(URL, { useNewUrlParser: true })
         
