@@ -19,7 +19,7 @@ const Articles = () => {
 
     const getData = async () => {
         console.log("pankaj")
-        const {data} = await axios.get("http://localhost:8000/news");
+        const {data} = await axios.get("https://inshorts-news-server.herokuapp.com");
         setNews(data)
         console.log(news)
     }
