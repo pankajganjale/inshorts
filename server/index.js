@@ -7,7 +7,7 @@ const app = express();
 
 app.use("/", Route);
 
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 
 Connection();
 
