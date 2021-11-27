@@ -18,10 +18,8 @@ const Articles = () => {
     }, [])
 
     const getData = async () => {
-        console.log("pankaj")
-        const {data} = await axios.get("https://inshorts-news-server.herokuapp.com");
+        const {data} = await axios.get("https://inshorts-news-server.herokuapp.com/");
         setNews(data)
-        console.log(news)
     }
 
     return (
@@ -31,9 +29,9 @@ const Articles = () => {
             hasMore={true}
         >
             {
-                news.map((article, i) => (
+                news ? news.map((article, i) => (
                     <Article key={i} article={article} />
-                ))
+                )) : <h3>Loading.....</h3>
             }
         </InfiniteScroll>
     )
