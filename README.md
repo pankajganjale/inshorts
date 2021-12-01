@@ -49,14 +49,14 @@ Took some help from these resources
 # Glimpse of My Work:-
 
 ## Login Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/images/desktop.PNG?raw=true)
+![login Page](https://github.com/pankajganjale/inshorts/blob/master/projectImages/desktop.PNG?raw=true)
 
 
 ## Home Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/images/tab.PNG?raw=true)
+![login Page](https://github.com/pankajganjale/inshorts/blob/master/projectImages/surface.PNG?raw=true)
 
 
 ## Category Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/images/mobile.PNG?raw=true)
+![login Page](https://github.com/pankajganjale/inshorts/blob/master/projectImages/iphone.PNG?raw=true)
 
 
