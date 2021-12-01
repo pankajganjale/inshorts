@@ -1,12 +1,8 @@
 # Bluemercury Clone
 
-### Bluemercury is a chain of American beauty stores founded in 1999 by Marla Malcolm Beck and Barry Beck. This project was build as a construct week project by Masai School Students.
+### Inshorts is a news website that shows only the important points of the news to users in a single paragraph. This is an exact replica of inshorts website with responsiveness.
 
-# Team Members:-
-1. Pankaj Ganjale
-2. Rahul Kumar 
-3. Atul Kumar
-4. Vishwaraj Patil
+## This is a solo Project.
 
 ## To start our Project on your Machine:-
 1. Create a new folder.
@@ -18,17 +14,14 @@
 ## Output of Project:-
 [Go Live](https://inshorts-pankajganjale.vercel.app/)
 
-# Features:-
-1. You will find latest products on this website.
-2. It has feature of authentication, signup, reset password and mail subscription.
-3. It has different categories. User can find products using filters such as price, brand name, new arrivals.
-4. User can add a particular product to cart by clicking on product and selecting yes/ok from pop up.
-5. User can add product to cart only one time.
-6. On clicking on a product, user will redirected to a new page to see all details of the product.
-7. User can select quantity for each product in a cart.
-8. User can apply promo code for discount.
+## Features:-
 
-# Technologies that we used :-
+1. Users can read important part of news on this web application on any device because of responsiveness.
+2. This news are fetch from MongoDB using express.js.
+3. If user want to read whole news then user can click on read more. After that user will be redirected to main website to read full news.
+4. Also users can see date and day of news along with writer's name.
+
+## Technologies that we used :-
 1. React.js
 2. MongoDB
 3. Express.js
@@ -37,6 +30,7 @@
 ## Contact
 
 Pankaj Ganjale - [My Linkedin](https://linkedin.com/in/pankajganjale)
+
 Project Link - [Project Repo](https://github.com/pankajganjale/inshorts.git)
 
 ## Acknowledgment
@@ -44,19 +38,5 @@ Took some help from these resources
 1) [W3 Schools](https://www.w3schools.com)
 2) [MDN docs](https://developer.mozilla.org/en-US/)
 3) [Material UI](https://mui.com/)
-
-
-# Glimpse of My Work:-
-
-## Login Page:-
-![login Page](https://github.com/pankajganjale/inshorts/blob/master/projectImages/desktop.PNG?raw=true)
-
-
-## Home Page:-
-![login Page](https://github.com/pankajganjale/inshorts/blob/master/projectImages/surface.PNG?raw=true)
-
-
-## Category Page:-
-![login Page](https://github.com/pankajganjale/inshorts/blob/master/projectImages/iphone.PNG?raw=true)
 
 
