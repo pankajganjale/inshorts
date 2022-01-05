@@ -1,4 +1,4 @@
-# Bluemercury Clone
+# Inshorts Clone
 
 ### Inshorts is a news website that shows only the important points of the news to users in a single paragraph. This is an exact replica of inshorts website with responsiveness.
 
